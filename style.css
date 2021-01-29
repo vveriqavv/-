@@ -1,0 +1,47 @@
+/*#picture
+{
+	width: : 10px;
+	height: 10px;
+	background: red;
+}
+
+#sykkylents
+{
+	object-fit: cover;
+	position: absolute;
+	top: 50px;
+	left: 66px;
+}
+#FL
+{
+	object-fit: cover;
+	position: absolute;
+	top: 50px;
+	left: 66px;
+}
+*/
+#sykkylents
+{
+	/*object-fit: cover;*/
+	position: absolute;
+	left: 66px;
+	top: 50px;
+}
+#FN
+{
+	position: absolute;
+	left: 520px;
+	top: 135px;
+}
+#Paporotnik
+{
+	position: absolute;
+	left: 658px;
+	top: 50px;
+}
+#Green
+{
+	position: absolute;
+	left: 715px;
+	top: 427px;
+}
